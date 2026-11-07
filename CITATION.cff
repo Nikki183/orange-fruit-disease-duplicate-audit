@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Code, duplicate-group assignments, splits and predictions for: Duplicated images and peel-colour shortcuts inflate the accuracy of YOLO classifiers for orange fruit diseases"
+authors:
+  - family-names: Duvvuru
+    given-names: Dheeraj Reddy
+    affiliation: "Department of Food Science and Technology, University of Georgia"
+  - family-names: Kottapalli
+    given-names: Nikhil
+    affiliation: "Department of Food Science and Technology, University of Georgia"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-06

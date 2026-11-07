@@ -1,0 +1,5 @@
+Comparison,mean_diff_F1_pp,SD_pp,corrected_t_p,mcnemar_b,mcnemar_c,mcnemar_exact_p
+YOLO11n-cls − YOLOv8n-cls,-1.2,4.1,0.671,21,18,0.749
+YOLO11s-cls − YOLOv8s-cls,-3.5,4.1,0.278,31,15,0.0259
+YOLOv8s-cls − YOLOv8n-cls,1.1,5.4,0.776,16,25,0.211
+YOLO11s-cls − YOLO11n-cls,-1.1,4.4,0.73,21,17,0.627

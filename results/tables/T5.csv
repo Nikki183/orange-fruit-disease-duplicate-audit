@@ -1,0 +1,5 @@
+Model,Within-source macro-F1 (%),Cross-source macro-F1 (%),Drop (pp),p,Canker recall (%),Any-disease sensitivity (%),Healthy specificity (%)
+YOLOv8n-cls,94.4 ± 6.7,16.3 ± 6.9,78.0,< 0.0001,5.2 ± 4.3,91.8 ± 6.8,14.9 ± 8.4
+YOLO11n-cls,91.3 ± 12.1,17.8 ± 4.0,73.5,< 0.0001,6.7 ± 5.4,92.9 ± 1.3,14.9 ± 4.6
+YOLOv8s-cls,94.6 ± 4.6,12.3 ± 3.9,82.3,< 0.0001,3.9 ± 2.2,96.1 ± 4.0,10.1 ± 4.7
+YOLO11s-cls,91.9 ± 6.6,15.0 ± 4.3,76.9,< 0.0001,6.4 ± 5.2,96.0 ± 4.0,11.4 ± 7.7

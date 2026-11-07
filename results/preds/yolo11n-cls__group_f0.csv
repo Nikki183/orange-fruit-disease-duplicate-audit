@@ -1,0 +1,105 @@
+model,split,regime,idx,path,true,pred,conf,dup_in_train,p_black_spot,p_canker,p_greening,p_healthy,source
+yolo11n-cls,group_f0,group,0,data/doh/Orange Fruit Diseases/Black spot/Black spot 1.jpg,black_spot,canker,0.9938585,False,0.005926792,0.9938585,0.00013017212,8.462726e-05,public
+yolo11n-cls,group_f0,group,34,data/doh/Orange Fruit Diseases/Black spot/Black spot 13.jpg,black_spot,healthy,0.63782215,False,0.044261515,0.3067937,0.011122622,0.63782215,public
+yolo11n-cls,group_f0,group,63,data/doh/Orange Fruit Diseases/Black spot/Black spot 156.jpg,black_spot,black_spot,0.9998983,False,0.9998983,0.00010000956,5.1783108e-08,1.619638e-06,public
+yolo11n-cls,group_f0,group,83,data/doh/Orange Fruit Diseases/Black spot/Black spot 174.jpg,black_spot,black_spot,0.997482,False,0.997482,3.288195e-05,0.002194159,0.000291039,public
+yolo11n-cls,group_f0,group,87,data/doh/Orange Fruit Diseases/Black spot/Black spot 178.jpg,black_spot,black_spot,0.99999964,False,0.99999964,1.7853994e-09,3.3546486e-09,3.970806e-07,public
+yolo11n-cls,group_f0,group,93,data/doh/Orange Fruit Diseases/Black spot/Black spot 20.jpg,black_spot,canker,0.9938585,False,0.005926792,0.9938585,0.00013017212,8.462726e-05,public
+yolo11n-cls,group_f0,group,97,data/doh/Orange Fruit Diseases/Black spot/Black spot 24.jpg,black_spot,canker,0.6278746,False,0.36983317,0.6278746,3.4913104e-05,0.0022572745,public
+yolo11n-cls,group_f0,group,99,data/doh/Orange Fruit Diseases/Black spot/Black spot 26.jpg,black_spot,black_spot,0.99999845,False,0.99999845,1.1379059e-06,4.1939455e-11,4.0838816e-07,public
+yolo11n-cls,group_f0,group,100,data/doh/Orange Fruit Diseases/Black spot/Black spot 27.jpg,black_spot,healthy,0.8945676,False,0.004163861,0.101074904,0.00019364868,0.8945676,public
+yolo11n-cls,group_f0,group,106,data/doh/Orange Fruit Diseases/Black spot/Black spot 32.jpg,black_spot,healthy,0.63782215,False,0.044261515,0.3067937,0.011122622,0.63782215,public
+yolo11n-cls,group_f0,group,113,data/doh/Orange Fruit Diseases/Black spot/Black spot 39.jpg,black_spot,canker,0.9938585,False,0.005926792,0.9938585,0.00013017212,8.462726e-05,public
+yolo11n-cls,group_f0,group,118,data/doh/Orange Fruit Diseases/Black spot/Black spot 43.jpg,black_spot,canker,0.6278746,False,0.36983317,0.6278746,3.4913104e-05,0.0022572745,public
+yolo11n-cls,group_f0,group,120,data/doh/Orange Fruit Diseases/Black spot/Black spot 45.jpg,black_spot,black_spot,0.99999845,False,0.99999845,1.1379059e-06,4.1939455e-11,4.0838816e-07,public
+yolo11n-cls,group_f0,group,121,data/doh/Orange Fruit Diseases/Black spot/Black spot 46.jpg,black_spot,healthy,0.8945676,False,0.004163861,0.101074904,0.00019364868,0.8945676,public
+yolo11n-cls,group_f0,group,125,data/doh/Orange Fruit Diseases/Black spot/Black spot 5.jpg,black_spot,canker,0.6278746,False,0.36983317,0.6278746,3.4913104e-05,0.0022572745,public
+yolo11n-cls,group_f0,group,127,data/doh/Orange Fruit Diseases/Black spot/Black spot 51.jpg,black_spot,healthy,0.63782215,False,0.044261515,0.3067937,0.011122622,0.63782215,public
+yolo11n-cls,group_f0,group,134,data/doh/Orange Fruit Diseases/Black spot/Black spot 58.jpg,black_spot,canker,0.9938585,False,0.005926792,0.9938585,0.00013017212,8.462726e-05,public
+yolo11n-cls,group_f0,group,139,data/doh/Orange Fruit Diseases/Black spot/Black spot 62.jpg,black_spot,canker,0.6278746,False,0.36983317,0.6278746,3.4913104e-05,0.0022572745,public
+yolo11n-cls,group_f0,group,141,data/doh/Orange Fruit Diseases/Black spot/Black spot 64.jpg,black_spot,black_spot,0.99999845,False,0.99999845,1.1379059e-06,4.1939455e-11,4.0838816e-07,public
+yolo11n-cls,group_f0,group,142,data/doh/Orange Fruit Diseases/Black spot/Black spot 65.jpg,black_spot,healthy,0.8945676,False,0.004163861,0.101074904,0.00019364868,0.8945676,public
+yolo11n-cls,group_f0,group,147,data/doh/Orange Fruit Diseases/Black spot/Black spot 7.jpg,black_spot,black_spot,0.99999845,False,0.99999845,1.1379059e-06,4.1939455e-11,4.0838816e-07,public
+yolo11n-cls,group_f0,group,148,data/doh/Orange Fruit Diseases/Black spot/Black spot 70.jpg,black_spot,healthy,0.63782215,False,0.044261515,0.3067937,0.011122622,0.63782215,public
+yolo11n-cls,group_f0,group,158,data/doh/Orange Fruit Diseases/Black spot/Black spot 8.jpg,black_spot,healthy,0.8945676,False,0.004163861,0.101074904,0.00019364868,0.8945676,public
+yolo11n-cls,group_f0,group,170,data/doh/Orange Fruit Diseases/Black spot/Black spot 90.jpg,black_spot,black_spot,0.99914277,False,0.99914277,0.0007913399,4.82702e-05,1.7675315e-05,public
+yolo11n-cls,group_f0,group,187,data/doh/Orange Fruit Diseases/Canker/Canker 15.jpg,canker,healthy,0.6713711,False,5.3379017e-06,0.3253117,0.0033118906,0.6713711,public
+yolo11n-cls,group_f0,group,193,data/doh/Orange Fruit Diseases/Canker/Canker 20.jpg,canker,canker,0.44499785,False,0.09913049,0.44499785,0.08278082,0.3730909,public
+yolo11n-cls,group_f0,group,207,data/doh/Orange Fruit Diseases/Canker/Canker 33.jpg,canker,canker,0.9994679,False,0.0005259545,0.9994679,2.377509e-06,3.773967e-06,public
+yolo11n-cls,group_f0,group,208,data/doh/Orange Fruit Diseases/Canker/Canker 34.jpg,canker,canker,0.9866318,False,0.01269265,0.9866318,0.00037995094,0.00029559727,public
+yolo11n-cls,group_f0,group,212,data/doh/Orange Fruit Diseases/Canker/Canker 38.jpg,canker,canker,0.99320215,False,0.005666053,0.99320215,0.00043149642,0.0007002963,public
+yolo11n-cls,group_f0,group,220,data/doh/Orange Fruit Diseases/Canker/Canker 45.jpg,canker,canker,0.98920083,False,0.0099627115,0.98920083,6.055932e-06,0.000830393,public
+yolo11n-cls,group_f0,group,222,data/doh/Orange Fruit Diseases/Canker/Canker 47.jpg,canker,canker,0.9332727,False,0.0653995,0.9332727,0.00089470495,0.00043315737,public
+yolo11n-cls,group_f0,group,224,data/doh/Orange Fruit Diseases/Canker/Canker 49.jpg,canker,black_spot,0.37016234,False,0.37016234,0.25383708,0.027881699,0.34811884,public
+yolo11n-cls,group_f0,group,225,data/doh/Orange Fruit Diseases/Canker/Canker 5.jpg,canker,canker,0.9983057,False,0.0014537526,0.9983057,2.1890477e-05,0.00021867473,public
+yolo11n-cls,group_f0,group,239,data/doh/Orange Fruit Diseases/Canker/Canker 62.jpg,canker,canker,0.9983656,False,0.00019904997,0.9983656,1.3302402e-05,0.0014220991,public
+yolo11n-cls,group_f0,group,242,data/doh/Orange Fruit Diseases/Canker/Canker 65.jpg,canker,canker,0.9999194,False,4.09317e-05,0.9999194,9.77032e-07,3.8595204e-05,public
+yolo11n-cls,group_f0,group,250,data/doh/Orange Fruit Diseases/Canker/Canker 72.jpg,canker,canker,0.99247277,False,0.0011712608,0.99247277,0.00011397848,0.0062419865,public
+yolo11n-cls,group_f0,group,256,data/doh/Orange Fruit Diseases/Canker/Canker 78.jpg,canker,canker,0.9996644,False,0.00023609995,0.9996644,1.4682018e-05,8.48863e-05,public
+yolo11n-cls,group_f0,group,257,data/doh/Orange Fruit Diseases/Canker/Canker 79.jpg,canker,canker,0.99985874,False,0.0001406901,0.99985874,2.8126e-07,2.7005518e-07,public
+yolo11n-cls,group_f0,group,258,data/doh/Orange Fruit Diseases/Canker/Canker 8.jpg,canker,canker,0.99985874,False,0.0001406901,0.99985874,2.8126e-07,2.7005518e-07,public
+yolo11n-cls,group_f0,group,264,data/doh/Orange Fruit Diseases/Canker/Canker 85.jpg,canker,healthy,0.6713711,False,5.3379017e-06,0.3253117,0.0033118906,0.6713711,public
+yolo11n-cls,group_f0,group,275,data/doh/Orange Fruit Diseases/Canker/Canker 95.jpg,canker,canker,0.9866318,False,0.01269265,0.9866318,0.00037995094,0.00029559727,public
+yolo11n-cls,group_f0,group,281,data/doh/Orange Fruit Diseases/Greening/Greening 10.jpg,greening,greening,0.988922,False,7.110503e-05,0.0014037578,0.988922,0.009603122,public
+yolo11n-cls,group_f0,group,284,data/doh/Orange Fruit Diseases/Greening/Greening 12.jpg,greening,greening,0.99999774,False,3.489454e-07,6.3782625e-07,0.99999774,1.3139381e-06,public
+yolo11n-cls,group_f0,group,289,data/doh/Orange Fruit Diseases/Greening/Greening 17.jpg,greening,greening,0.9251747,False,0.0052861236,0.028380217,0.9251747,0.04115892,public
+yolo11n-cls,group_f0,group,297,data/doh/Orange Fruit Diseases/Greening/Greening 26.jpg,greening,greening,0.988922,False,7.110503e-05,0.0014037578,0.988922,0.009603122,public
+yolo11n-cls,group_f0,group,299,data/doh/Orange Fruit Diseases/Greening/Greening 28.jpg,greening,greening,0.99999774,False,3.489454e-07,6.3782625e-07,0.99999774,1.3139381e-06,public
+yolo11n-cls,group_f0,group,304,data/doh/Orange Fruit Diseases/Greening/Greening 32.jpg,greening,greening,0.9251747,False,0.0052861236,0.028380217,0.9251747,0.04115892,public
+yolo11n-cls,group_f0,group,308,data/doh/Orange Fruit Diseases/Greening/Greening 36.jpg,greening,greening,1.0,False,3.478308e-11,5.5038476e-09,1.0,3.7082974e-09,public
+yolo11n-cls,group_f0,group,309,data/doh/Orange Fruit Diseases/Greening/Greening 37.jpg,greening,greening,1.0,False,1.3689287e-10,8.48582e-09,1.0,2.4820375e-09,public
+yolo11n-cls,group_f0,group,313,data/doh/Orange Fruit Diseases/Greening/Greening 40.jpg,greening,greening,0.99999905,False,5.1679265e-09,9.796701e-07,0.99999905,1.0269889e-08,public
+yolo11n-cls,group_f0,group,315,data/doh/Orange Fruit Diseases/Greening/Greening 42.jpg,greening,greening,0.9999999,False,1.6514549e-09,1.2300049e-07,0.9999999,1.9503679e-08,public
+yolo11n-cls,group_f0,group,316,data/doh/Orange Fruit Diseases/Greening/Greening 43.jpg,greening,greening,0.9999981,False,1.7659675e-08,1.3373427e-06,0.9999981,6.0956745e-07,public
+yolo11n-cls,group_f0,group,328,data/doh/Orange Fruit Diseases/Greening/Greening 54.jpg,greening,greening,0.9999943,False,1.0081024e-08,4.2165857e-06,0.9999943,1.470889e-06,public
+yolo11n-cls,group_f0,group,335,data/doh/Orange Fruit Diseases/Greening/Greening 60.jpg,greening,greening,0.9999924,False,3.5821135e-08,7.653783e-06,0.9999924,1.401789e-08,public
+yolo11n-cls,group_f0,group,344,data/doh/Orange Fruit Diseases/Greening/Greening 69.jpg,greening,greening,0.9999206,False,4.7901645e-05,2.6054388e-06,0.9999206,2.8805676e-05,public
+yolo11n-cls,group_f0,group,348,data/doh/Orange Fruit Diseases/Greening/Greening 72.jpg,greening,greening,0.9998776,False,1.11826175e-05,0.00011038246,0.9998776,8.4743493e-07,public
+yolo11n-cls,group_f0,group,349,data/doh/Orange Fruit Diseases/Greening/Greening 73.jpg,greening,greening,1.0,False,3.8551016e-12,2.3926499e-09,1.0,1.5859911e-09,public
+yolo11n-cls,group_f0,group,354,data/doh/Orange Fruit Diseases/Greening/Greening 78.jpg,greening,greening,1.0,False,3.1103814e-10,1.1302083e-08,1.0,1.8814731e-08,public
+yolo11n-cls,group_f0,group,365,data/doh/Orange Fruit Diseases/Greening/Greening 88.jpg,greening,greening,0.99999964,False,2.243455e-08,2.1106096e-07,0.99999964,9.926192e-08,public
+yolo11n-cls,group_f0,group,366,data/doh/Orange Fruit Diseases/Greening/Greening 89.jpg,greening,greening,0.9999999,False,1.9109878e-09,1.9294331e-08,0.9999999,5.240343e-08,public
+yolo11n-cls,group_f0,group,370,data/doh/Orange Fruit Diseases/Greening/Greening 92.jpg,greening,greening,1.0,False,3.5666547e-10,8.276497e-09,1.0,4.105212e-09,public
+yolo11n-cls,group_f0,group,373,data/doh/Orange Fruit Diseases/Greening/Greening 95.jpg,greening,greening,1.0,False,9.045025e-12,1.2979125e-08,1.0,1.4215269e-09,public
+yolo11n-cls,group_f0,group,377,data/doh/Orange Fruit Diseases/Greening/Greening 99.jpg,greening,greening,0.9999995,False,5.2548142e-08,1.378466e-07,0.9999995,3.5932612e-07,public
+yolo11n-cls,group_f0,group,381,data/doh/Orange Fruit Diseases/healthy/Healthy 101.png,healthy,healthy,0.99999154,False,2.5768024e-08,8.287623e-06,5.9707915e-08,0.99999154,public
+yolo11n-cls,group_f0,group,383,data/doh/Orange Fruit Diseases/healthy/Healthy 103.png,healthy,healthy,0.9999963,False,2.9238233e-06,7.2136874e-07,4.3220908e-08,0.9999963,public
+yolo11n-cls,group_f0,group,391,data/doh/Orange Fruit Diseases/healthy/Healthy 110.png,healthy,healthy,0.99999845,False,5.6779874e-07,9.849465e-07,8.960781e-09,0.99999845,public
+yolo11n-cls,group_f0,group,400,data/doh/Orange Fruit Diseases/healthy/Healthy 119.png,healthy,healthy,0.999987,False,7.327837e-06,5.654661e-06,3.6148542e-08,0.999987,public
+yolo11n-cls,group_f0,group,404,data/doh/Orange Fruit Diseases/healthy/Healthy 122.png,healthy,healthy,0.9997831,False,0.00013594986,7.974105e-05,1.2395067e-06,0.9997831,public
+yolo11n-cls,group_f0,group,411,data/doh/Orange Fruit Diseases/healthy/Healthy 129.png,healthy,healthy,0.99954283,False,0.00012641335,0.00032453824,6.160803e-06,0.99954283,public
+yolo11n-cls,group_f0,group,416,data/doh/Orange Fruit Diseases/healthy/Healthy 133.png,healthy,healthy,0.94858366,False,0.048204705,0.0032106913,9.1014357e-07,0.94858366,public
+yolo11n-cls,group_f0,group,417,data/doh/Orange Fruit Diseases/healthy/Healthy 134.png,healthy,healthy,0.99999535,False,2.389865e-06,2.3072287e-06,1.0293756e-08,0.99999535,public
+yolo11n-cls,group_f0,group,423,data/doh/Orange Fruit Diseases/healthy/Healthy 14.jpg,healthy,healthy,0.9986707,False,0.0009050417,0.00024101508,0.00018336037,0.9986707,public
+yolo11n-cls,group_f0,group,424,data/doh/Orange Fruit Diseases/healthy/Healthy 140.png,healthy,healthy,0.99397177,False,0.0051106857,0.0007180753,0.00019953119,0.99397177,public
+yolo11n-cls,group_f0,group,427,data/doh/Orange Fruit Diseases/healthy/Healthy 143.png,healthy,healthy,0.99996006,False,2.0060956e-05,1.9733943e-06,1.7874552e-05,0.99996006,public
+yolo11n-cls,group_f0,group,435,data/doh/Orange Fruit Diseases/healthy/Healthy 150.png,healthy,healthy,0.99997604,False,6.935326e-06,1.2618616e-05,4.365075e-06,0.99997604,public
+yolo11n-cls,group_f0,group,438,data/doh/Orange Fruit Diseases/healthy/Healthy 153.png,healthy,healthy,0.99998784,False,1.1007721e-05,1.0726726e-06,3.166567e-08,0.99998784,public
+yolo11n-cls,group_f0,group,445,data/doh/Orange Fruit Diseases/healthy/Healthy 16.jpg,healthy,healthy,0.99999976,False,8.108409e-10,2.1462282e-07,7.3906414e-09,0.99999976,public
+yolo11n-cls,group_f0,group,446,data/doh/Orange Fruit Diseases/healthy/Healthy 160.png,healthy,healthy,0.9999907,False,4.9490072e-06,2.0069501e-06,2.309653e-06,0.9999907,public
+yolo11n-cls,group_f0,group,454,data/doh/Orange Fruit Diseases/healthy/Healthy 168.png,healthy,healthy,0.9999994,False,1.0868982e-07,7.877283e-08,3.8330506e-07,0.9999994,public
+yolo11n-cls,group_f0,group,457,data/doh/Orange Fruit Diseases/healthy/Healthy 170.png,healthy,healthy,0.9999999,False,1.1513115e-07,1.1861232e-08,1.2733208e-08,0.9999999,public
+yolo11n-cls,group_f0,group,458,data/doh/Orange Fruit Diseases/healthy/Healthy 171.png,healthy,healthy,0.99999976,False,6.0884766e-08,2.7634e-08,1.6815248e-07,0.99999976,public
+yolo11n-cls,group_f0,group,466,data/doh/Orange Fruit Diseases/healthy/Healthy 179.png,healthy,healthy,1.0,False,1.301216e-09,6.5015646e-09,1.1766258e-08,1.0,public
+yolo11n-cls,group_f0,group,472,data/doh/Orange Fruit Diseases/healthy/Healthy 184.png,healthy,healthy,0.99999774,False,1.3631234e-06,8.127194e-07,1.3029745e-08,0.99999774,public
+yolo11n-cls,group_f0,group,475,data/doh/Orange Fruit Diseases/healthy/Healthy 187.png,healthy,healthy,0.9998858,False,1.3057033e-06,0.00011282175,1.0782962e-08,0.9998858,public
+yolo11n-cls,group_f0,group,482,data/doh/Orange Fruit Diseases/healthy/Healthy 193.png,healthy,healthy,0.9999471,False,3.6463087e-05,1.6307877e-05,7.72144e-08,0.9999471,public
+yolo11n-cls,group_f0,group,485,data/doh/Orange Fruit Diseases/healthy/Healthy 196.png,healthy,healthy,0.99912506,False,0.00075722544,7.997559e-05,3.7787704e-05,0.99912506,public
+yolo11n-cls,group_f0,group,491,data/doh/Orange Fruit Diseases/healthy/Healthy 200.png,healthy,healthy,0.99999976,False,4.2814584e-08,2.18782e-07,5.6435945e-09,0.99999976,public
+yolo11n-cls,group_f0,group,492,data/doh/Orange Fruit Diseases/healthy/Healthy 21.jpg,healthy,healthy,0.9999509,False,8.871217e-08,4.820211e-05,9.1059655e-07,0.9999509,public
+yolo11n-cls,group_f0,group,502,data/doh/Orange Fruit Diseases/healthy/Healthy 30.jpg,healthy,healthy,0.9999995,False,2.5822584e-09,4.4013464e-07,2.7083694e-08,0.9999995,public
+yolo11n-cls,group_f0,group,507,data/doh/Orange Fruit Diseases/healthy/Healthy 35.jpg,healthy,healthy,0.9986707,False,0.0009050417,0.00024101508,0.00018336037,0.9986707,public
+yolo11n-cls,group_f0,group,509,data/doh/Orange Fruit Diseases/healthy/Healthy 37.jpg,healthy,healthy,0.99999976,False,8.108409e-10,2.1462282e-07,7.3906414e-09,0.99999976,public
+yolo11n-cls,group_f0,group,515,data/doh/Orange Fruit Diseases/healthy/Healthy 42.jpg,healthy,healthy,0.9999509,False,8.871217e-08,4.820211e-05,9.1059655e-07,0.9999509,public
+yolo11n-cls,group_f0,group,518,data/doh/Orange Fruit Diseases/healthy/Healthy 45.jpg,healthy,healthy,0.9986707,False,0.0009050417,0.00024101508,0.00018336037,0.9986707,public
+yolo11n-cls,group_f0,group,524,data/doh/Orange Fruit Diseases/healthy/Healthy 50.jpg,healthy,healthy,0.9986707,False,0.0009050417,0.00024101508,0.00018336037,0.9986707,public
+yolo11n-cls,group_f0,group,527,data/doh/Orange Fruit Diseases/healthy/Healthy 53.png,healthy,healthy,0.99997234,False,2.5427858e-05,2.0031005e-06,2.0019078e-07,0.99997234,public
+yolo11n-cls,group_f0,group,531,data/doh/Orange Fruit Diseases/healthy/Healthy 57.png,healthy,healthy,0.9999645,False,2.6638201e-05,8.762358e-06,5.2582593e-08,0.9999645,public
+yolo11n-cls,group_f0,group,536,data/doh/Orange Fruit Diseases/healthy/Healthy 61.png,healthy,healthy,0.9999801,False,3.2780025e-07,1.9230145e-05,3.6914918e-07,0.9999801,public
+yolo11n-cls,group_f0,group,540,data/doh/Orange Fruit Diseases/healthy/Healthy 65.png,healthy,healthy,0.9999678,False,3.199163e-05,2.1414307e-07,4.5494075e-09,0.9999678,public
+yolo11n-cls,group_f0,group,542,data/doh/Orange Fruit Diseases/healthy/Healthy 67.png,healthy,healthy,0.9999999,False,1.2950582e-07,1.360979e-08,7.0643535e-10,0.9999999,public
+yolo11n-cls,group_f0,group,546,data/doh/Orange Fruit Diseases/healthy/Healthy 70.png,healthy,healthy,0.9999988,False,5.140973e-07,6.74613e-07,2.9997695e-09,0.9999988,public
+yolo11n-cls,group_f0,group,553,data/doh/Orange Fruit Diseases/healthy/Healthy 77.png,healthy,healthy,0.9999932,False,2.1177345e-06,4.4445937e-06,3.146618e-07,0.9999932,public
+yolo11n-cls,group_f0,group,567,data/doh/Orange Fruit Diseases/healthy/Healthy 9.jpg,healthy,healthy,0.9999995,False,2.5822584e-09,4.4013464e-07,2.7083694e-08,0.9999995,public
+yolo11n-cls,group_f0,group,569,data/doh/Orange Fruit Diseases/healthy/Healthy 91.png,healthy,healthy,0.99999964,False,3.8075484e-07,4.060258e-08,3.1239136e-09,0.99999964,public
+yolo11n-cls,group_f0,group,575,data/doh/Orange Fruit Diseases/healthy/Healthy 97.png,healthy,healthy,0.9999988,False,9.684031e-07,1.8938681e-07,1.2782299e-08,0.9999988,public

@@ -1,0 +1,5 @@
+Model,Parameters (millions),"Training time, 30 epochs (s)",Inference latency (ms per image)
+YOLOv8n-cls,1.44,91,5.0
+YOLO11n-cls,1.54,91,5.7
+YOLOv8s-cls,5.09,145,4.2
+YOLO11s-cls,5.45,153,5.6

@@ -1,0 +1,7 @@
+Class,Files,Copies of Rauf et al. (2019) images,Distinct Rauf originals,Distinct images (pHash groups),Analysed files,Independent groups (pHash + embedding)
+Black spot,180,76,19,104,180,45
+Canker,100,100,78,78,100,78
+Greening,100,32,16,79,98,66
+Healthy,200,50,22,166,200,156
+Scab,120,120,10,10,excluded,–
+Total,700,378,145,436,578,345

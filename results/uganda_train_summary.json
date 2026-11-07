@@ -1,0 +1,9 @@
+{
+ "skipped_test_file": 74,
+ "phash_near_test_or_kept": 23,
+ "embedding_near_test_removed": 23,
+ "kept": {
+  "canker": 347,
+  "healthy": 330
+ }
+}

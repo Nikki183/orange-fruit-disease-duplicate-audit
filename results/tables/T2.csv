@@ -1,0 +1,5 @@
+Model,"Accuracy, test image has a copy in training (%)",Pooled n (copy),"Accuracy, no copy in training (%)",Pooled n (no copy),p
+YOLOv8n-cls,100.0 ± 0.0,284,94.6 ± 2.7,296,0.011
+YOLO11n-cls,100.0 ± 0.0,284,94.3 ± 3.7,296,0.027
+YOLOv8s-cls,100.0 ± 0.0,284,94.6 ± 2.0,296,0.004
+YOLO11s-cls,98.7 ± 2.1,284,94.0 ± 2.9,296,0.034

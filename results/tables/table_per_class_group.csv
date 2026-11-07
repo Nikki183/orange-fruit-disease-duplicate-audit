@@ -1,0 +1,17 @@
+Model,Class,Precision,Recall,F1,n
+YOLOv8n-cls,Black spot,86.3,66.7,75.2,180
+YOLOv8n-cls,Canker,60.0,90.0,72.0,100
+YOLOv8n-cls,Greening,98.9,93.9,96.3,98
+YOLOv8n-cls,Healthy,95.4,93.5,94.4,200
+YOLO11n-cls,Black spot,90.2,66.7,76.7,180
+YOLO11n-cls,Canker,58.2,82.0,68.0,100
+YOLO11n-cls,Greening,98.9,93.9,96.3,98
+YOLO11n-cls,Healthy,91.0,96.0,93.4,200
+YOLOv8s-cls,Black spot,93.2,68.9,79.2,180
+YOLOv8s-cls,Canker,63.8,88.0,73.9,100
+YOLOv8s-cls,Greening,98.9,93.9,96.3,98
+YOLOv8s-cls,Healthy,90.7,97.0,93.7,200
+YOLO11s-cls,Black spot,90.6,64.4,75.3,180
+YOLO11s-cls,Canker,54.6,83.0,65.9,100
+YOLO11s-cls,Greening,98.9,91.8,95.2,98
+YOLO11s-cls,Healthy,93.2,96.5,94.8,200

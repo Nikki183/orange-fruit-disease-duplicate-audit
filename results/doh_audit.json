@@ -1,0 +1,6302 @@
+[
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 1.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 10.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 100.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 101.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 102.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 103.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 104.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 105.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 106.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0080.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 107.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0124.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 108.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 8,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 109.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0016.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 11.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0002.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 110.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 111.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 112.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0077.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 113.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 114.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 115.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 116.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0081.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 117.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 118.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 119.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 12.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 120.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 121.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0009.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 122.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 123.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 124.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 125.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 126.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 127.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0091.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 128.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0076.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 129.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 13.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0004.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 130.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0077.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 131.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0076.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 132.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 133.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0011.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 134.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 135.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 136.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 137.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0091.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 138.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 139.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 14.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 140.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 141.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 142.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 143.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 144.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 145.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0083.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 146.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0081.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 147.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 148.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 149.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0011.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 15.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0006.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 150.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 151.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 152.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 153.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 154.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 8,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0094.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 155.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 156.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 157.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 8,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0094.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 158.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 159.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 16.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0007.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 160.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 161.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 162.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 163.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 164.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 165.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0089.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 166.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0077.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 167.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 168.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 169.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 17.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0008.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 170.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 171.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 8,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0094.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 172.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 173.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0147.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 174.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 175.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 176.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0083.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 177.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0083.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 178.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 179.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 18.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0009.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 180.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 19.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0010.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 2.jpg",
+"cls": "Black spot",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0011.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 20.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 21.jpg",
+"cls": "Black spot",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0011.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 22.jpg",
+"cls": "Black spot",
+"size": "(1640, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0012.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 23.jpg",
+"cls": "Black spot",
+"size": "(1458, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0013.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 24.jpg",
+"cls": "Black spot",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 25.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0015.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 26.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0016.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 27.jpg",
+"cls": "Black spot",
+"size": "(133, 106)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 28.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0018.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 29.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 3.jpg",
+"cls": "Black spot",
+"size": "(1640, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0012.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 30.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0002.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 31.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 32.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0004.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 33.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 34.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0006.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 35.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0007.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 36.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0008.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 37.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0009.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 38.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0010.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 39.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 4.jpg",
+"cls": "Black spot",
+"size": "(1458, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0013.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 40.jpg",
+"cls": "Black spot",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0011.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 41.jpg",
+"cls": "Black spot",
+"size": "(1640, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0012.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 42.jpg",
+"cls": "Black spot",
+"size": "(1458, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0013.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 43.jpg",
+"cls": "Black spot",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 44.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0015.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 45.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0016.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 46.jpg",
+"cls": "Black spot",
+"size": "(133, 106)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 47.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0018.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 48.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 49.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0002.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 5.jpg",
+"cls": "Black spot",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 50.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 51.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0004.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 52.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 53.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0006.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 54.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0007.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 55.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0008.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 56.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0009.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 57.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0010.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 58.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 59.jpg",
+"cls": "Black spot",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0011.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 6.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0015.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 60.jpg",
+"cls": "Black spot",
+"size": "(1640, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0012.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 61.jpg",
+"cls": "Black spot",
+"size": "(1458, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0013.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 62.jpg",
+"cls": "Black spot",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 63.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0015.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 64.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0016.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 65.jpg",
+"cls": "Black spot",
+"size": "(133, 106)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 66.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0018.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 67.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 68.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0002.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 69.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 7.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0016.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 70.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0004.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 71.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 72.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0006.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 73.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0007.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 74.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0008.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 75.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0009.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 76.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0010.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 77.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0015.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 78.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0079.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 79.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 8.jpg",
+"cls": "Black spot",
+"size": "(133, 106)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 80.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 81.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 82.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 83.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 84.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0147.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 85.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0039.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 86.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 87.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 88.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 89.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 9.jpg",
+"cls": "Black spot",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0018.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 90.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0094.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 91.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0083.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 92.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 93.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 94.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0087.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 95.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 96.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 97.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 98.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Black spot/Black spot 99.jpg",
+"cls": "Black spot",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0089.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 1.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0019.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 10.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0054.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 100.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0036.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 11.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0055.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 12.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0056.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 13.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0057.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 14.JPG",
+"cls": "Canker",
+"size": "(920, 790)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0058.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 15.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0059.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 16.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0060.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 17.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0061.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 18.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0062.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 19.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0063.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 2.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0046.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 20.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0064.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 21.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 22.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0066.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 23.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0067.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 24.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 25.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0069.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 26.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 27.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 28.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0072.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 29.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 3.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0047.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 30.jpg",
+"cls": "Canker",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 31.jpg",
+"cls": "Canker",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 32.jpg",
+"cls": "Canker",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0076.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 33.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0077.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 34.jpg",
+"cls": "Canker",
+"size": "(580, 549)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0078.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 35.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0079.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 36.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0080.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 37.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0081.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 38.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0082.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 39.jpg",
+"cls": "Canker",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0083.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 4.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0048.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 40.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0084.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 41.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0085.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 42.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0086.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 43.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0087.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 44.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0088.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 45.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0089.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 46.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0090.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 47.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0091.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 48.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0092.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 49.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0093.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 5.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0049.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 50.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0094.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 51.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0095.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 52.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0096.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 53.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0020.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 54.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0021.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 55.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0022.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 56.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0023.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 57.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0024.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 58.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0025.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 59.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0026.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 6.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0050.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 60.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0027.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 61.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0028.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 62.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0029.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 63.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0030.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 64.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0031.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 65.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0032.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 66.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0033.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 67.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0034.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 68.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0035.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 69.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0036.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 7.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0051.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 70.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0037.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 71.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0038.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 72.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0039.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 73.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0040.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 74.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0041.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 75.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0042.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 76.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0043.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 77.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0044.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 78.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0045.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 79.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0052.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 8.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0052.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 80.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0053.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 81.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0054.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 82.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0055.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 83.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0056.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 84.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0057.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 85.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0059.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 86.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0060.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 87.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0061.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 88.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0062.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 89.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 9.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0053.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 90.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0072.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 91.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 92.jpg",
+"cls": "Canker",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 93.jpg",
+"cls": "Canker",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 94.jpg",
+"cls": "Canker",
+"size": "(1890, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0076.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 95.jpg",
+"cls": "Canker",
+"size": "(580, 549)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0078.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 96.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0092.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 97.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0096.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 98.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0020.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Canker/Canker 99.jpg",
+"cls": "Canker",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0021.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 1.jpeg",
+"cls": "Greening",
+"size": "(623, 437)",
+"ext": "jpeg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 10.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0099.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 100.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 11.jpg",
+"cls": "Greening",
+"size": "(1520, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 12.jpg",
+"cls": "Greening",
+"size": "(1520, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0101.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 13.jpg",
+"cls": "Greening",
+"size": "(1520, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 14.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0103.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 15.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0104.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 16.jpeg",
+"cls": "Greening",
+"size": "(623, 437)",
+"ext": "jpeg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 17.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 18.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 19.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0106.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 2.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 20.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0107.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 21.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0108.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 22.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0109.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 23.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0110.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 24.jpg",
+"cls": "Greening",
+"size": "(1577, 1656)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0111.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 25.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0112.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 26.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0099.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 27.jpg",
+"cls": "Greening",
+"size": "(1520, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 28.jpg",
+"cls": "Greening",
+"size": "(1520, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0101.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 29.jpg",
+"cls": "Greening",
+"size": "(1520, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 3.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0106.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 30.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0103.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 31.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0104.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 32.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 33.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0085.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 34.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0010.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 35.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0085.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 36.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 37.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0010.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 38.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 39.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 4.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0107.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 40.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0038.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 41.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 42.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0093.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 43.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 44.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0131.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 45.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0085.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 46.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 47.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0058.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 48.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0015.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 49.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 5.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0108.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 50.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0099.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 51.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0057.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 52.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0104.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 53.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 54.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 55.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 56.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0042.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 57.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0062.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 58.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0096.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 59.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0067.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 6.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0109.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 60.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0082.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 61.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 62.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 63.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 64.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 65.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0087.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 66.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0087.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 67.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 68.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 69.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0029.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 7.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0110.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 70.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0108.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 71.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 72.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0082.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 73.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0104.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 74.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 75.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0084.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 76.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0078.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 77.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0058.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 78.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 79.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 8.jpg",
+"cls": "Greening",
+"size": "(1577, 1656)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0111.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 80.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0002.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 81.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 82.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0084.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 83.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 84.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0082.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 85.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0080.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 86.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 87.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 88.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 89.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 9.jpg",
+"cls": "Greening",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0112.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 90.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 91.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 92.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 93.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0087.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 94.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0062.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 95.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 96.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0098.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 97.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 98.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0087.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Greening/Greening 99.jpg",
+"cls": "Greening",
+"size": "(800, 800)",
+"ext": "jpg",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0078.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 1.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 10.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 100.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 101.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 102.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 103.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 104.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 105.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 106.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 107.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 108.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 109.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 11.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 110.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 111.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 112.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 113.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 114.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 115.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 116.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 117.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 118.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 119.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 12.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 120.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 13.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 14.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 15.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 16.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 17.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 18.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 19.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 2.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 20.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 21.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 22.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 23.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 24.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 25.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 26.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 27.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 28.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 29.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 3.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 30.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 31.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 32.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 33.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 34.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 35.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 36.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 37.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 38.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 39.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 4.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 40.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 41.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 42.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 43.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 44.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 45.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 46.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 47.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 48.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 49.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 5.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 50.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 51.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 52.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 53.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 54.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 55.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 56.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 57.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 58.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 59.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 6.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 60.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 61.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 62.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 63.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 64.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 65.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 66.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 67.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 68.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 69.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 7.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 70.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 71.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 72.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 73.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 74.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 75.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 76.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 77.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 78.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 79.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 8.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 80.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 81.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 82.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 83.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 84.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 85.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 86.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0123.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 87.jpg",
+"cls": "Scab",
+"size": "(112, 110)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 88.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0125.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 89.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0127.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 9.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 90.jpg",
+"cls": "Scab",
+"size": "(549, 529)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0105.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 91.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0113.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 92.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0115.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 93.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0116.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 94.jpg",
+"cls": "Scab",
+"size": "(1594, 1417)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 95.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0117.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 96.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 97.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0119.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 98.jpg",
+"cls": "Scab",
+"size": "(2699, 2399)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/Scab/Scab 99.jpg",
+"cls": "Scab",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 1.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0128.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 10.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 100.png",
+"cls": "healthy",
+"size": "(274, 232)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 101.png",
+"cls": "healthy",
+"size": "(326, 304)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0093.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 102.png",
+"cls": "healthy",
+"size": "(280, 292)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0046.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 103.png",
+"cls": "healthy",
+"size": "(300, 228)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0104.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 104.png",
+"cls": "healthy",
+"size": "(584, 388)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0028.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 105.png",
+"cls": "healthy",
+"size": "(338, 334)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 106.png",
+"cls": "healthy",
+"size": "(488, 450)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0031.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 107.png",
+"cls": "healthy",
+"size": "(352, 284)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0042.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 108.png",
+"cls": "healthy",
+"size": "(314, 258)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 109.png",
+"cls": "healthy",
+"size": "(256, 240)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 11.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0130.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 110.png",
+"cls": "healthy",
+"size": "(504, 476)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 111.png",
+"cls": "healthy",
+"size": "(406, 332)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 112.png",
+"cls": "healthy",
+"size": "(322, 294)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 113.png",
+"cls": "healthy",
+"size": "(378, 372)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0057.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 114.png",
+"cls": "healthy",
+"size": "(300, 236)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0035.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 115.png",
+"cls": "healthy",
+"size": "(454, 398)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 116.png",
+"cls": "healthy",
+"size": "(458, 336)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0059.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 117.png",
+"cls": "healthy",
+"size": "(196, 198)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 118.png",
+"cls": "healthy",
+"size": "(426, 418)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 119.png",
+"cls": "healthy",
+"size": "(464, 362)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0103.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 12.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0131.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 120.png",
+"cls": "healthy",
+"size": "(266, 212)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0027.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 121.png",
+"cls": "healthy",
+"size": "(404, 418)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 122.png",
+"cls": "healthy",
+"size": "(308, 244)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0028.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 123.png",
+"cls": "healthy",
+"size": "(406, 358)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 124.png",
+"cls": "healthy",
+"size": "(256, 260)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 125.png",
+"cls": "healthy",
+"size": "(492, 424)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0021.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 126.png",
+"cls": "healthy",
+"size": "(366, 326)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 127.png",
+"cls": "healthy",
+"size": "(346, 316)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0039.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 128.png",
+"cls": "healthy",
+"size": "(380, 340)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0005.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 129.png",
+"cls": "healthy",
+"size": "(332, 346)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 13.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 130.png",
+"cls": "healthy",
+"size": "(412, 344)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0028.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 131.png",
+"cls": "healthy",
+"size": "(396, 394)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0031.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 132.png",
+"cls": "healthy",
+"size": "(154, 140)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0027.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 133.png",
+"cls": "healthy",
+"size": "(306, 254)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 134.png",
+"cls": "healthy",
+"size": "(470, 444)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0081.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 135.png",
+"cls": "healthy",
+"size": "(210, 192)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 136.png",
+"cls": "healthy",
+"size": "(326, 316)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0041.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 137.png",
+"cls": "healthy",
+"size": "(412, 378)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0073.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 138.png",
+"cls": "healthy",
+"size": "(218, 214)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 139.png",
+"cls": "healthy",
+"size": "(314, 276)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0046.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 14.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0133.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 140.png",
+"cls": "healthy",
+"size": "(428, 330)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0099.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 141.png",
+"cls": "healthy",
+"size": "(392, 386)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 142.png",
+"cls": "healthy",
+"size": "(404, 364)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0091.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 143.png",
+"cls": "healthy",
+"size": "(318, 282)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0067.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 144.png",
+"cls": "healthy",
+"size": "(284, 292)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 145.png",
+"cls": "healthy",
+"size": "(280, 264)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0046.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 146.png",
+"cls": "healthy",
+"size": "(446, 408)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0082.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 147.png",
+"cls": "healthy",
+"size": "(296, 234)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 148.png",
+"cls": "healthy",
+"size": "(256, 240)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 149.png",
+"cls": "healthy",
+"size": "(264, 224)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 15.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0134.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 150.png",
+"cls": "healthy",
+"size": "(192, 144)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0139.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 151.png",
+"cls": "healthy",
+"size": "(504, 476)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 152.png",
+"cls": "healthy",
+"size": "(322, 294)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 153.png",
+"cls": "healthy",
+"size": "(390, 350)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0082.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 154.png",
+"cls": "healthy",
+"size": "(334, 310)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0087.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 155.png",
+"cls": "healthy",
+"size": "(378, 372)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 156.png",
+"cls": "healthy",
+"size": "(220, 174)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0013.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 157.png",
+"cls": "healthy",
+"size": "(378, 342)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 158.png",
+"cls": "healthy",
+"size": "(196, 198)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 159.png",
+"cls": "healthy",
+"size": "(384, 368)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 16.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0135.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 160.png",
+"cls": "healthy",
+"size": "(426, 384)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0026.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 161.png",
+"cls": "healthy",
+"size": "(426, 418)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 162.png",
+"cls": "healthy",
+"size": "(464, 362)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 163.png",
+"cls": "healthy",
+"size": "(328, 296)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0043.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 164.png",
+"cls": "healthy",
+"size": "(376, 308)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0011.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 165.png",
+"cls": "healthy",
+"size": "(308, 244)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0076.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 166.png",
+"cls": "healthy",
+"size": "(366, 326)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0102.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 167.png",
+"cls": "healthy",
+"size": "(458, 374)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 168.png",
+"cls": "healthy",
+"size": "(332, 346)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 169.png",
+"cls": "healthy",
+"size": "(412, 344)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0074.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 17.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0136.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 170.png",
+"cls": "healthy",
+"size": "(334, 306)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 171.png",
+"cls": "healthy",
+"size": "(410, 350)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 172.png",
+"cls": "healthy",
+"size": "(404, 330)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0079.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 173.png",
+"cls": "healthy",
+"size": "(170, 138)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 174.png",
+"cls": "healthy",
+"size": "(174, 158)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0035.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 175.png",
+"cls": "healthy",
+"size": "(212, 226)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0067.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 176.png",
+"cls": "healthy",
+"size": "(210, 192)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0008.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 177.png",
+"cls": "healthy",
+"size": "(584, 388)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 178.png",
+"cls": "healthy",
+"size": "(404, 364)",
+"ext": "png",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 179.png",
+"cls": "healthy",
+"size": "(208, 202)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0081.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 18.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0137.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 180.png",
+"cls": "healthy",
+"size": "(318, 282)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0069.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 181.png",
+"cls": "healthy",
+"size": "(280, 264)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0014.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 182.png",
+"cls": "healthy",
+"size": "(498, 446)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 183.png",
+"cls": "healthy",
+"size": "(488, 450)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0003.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 184.png",
+"cls": "healthy",
+"size": "(428, 412)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0081.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 185.png",
+"cls": "healthy",
+"size": "(340, 316)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/scab/rauf_scab_0121.png",
+"rauf_cls": "scab"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 186.png",
+"cls": "healthy",
+"size": "(252, 240)",
+"ext": "png",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0086.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 187.png",
+"cls": "healthy",
+"size": "(160, 154)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0016.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 188.png",
+"cls": "healthy",
+"size": "(352, 370)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 189.png",
+"cls": "healthy",
+"size": "(264, 224)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0068.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 19.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0138.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 190.png",
+"cls": "healthy",
+"size": "(318, 352)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 191.png",
+"cls": "healthy",
+"size": "(214, 216)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 192.png",
+"cls": "healthy",
+"size": "(378, 372)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0000.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 193.png",
+"cls": "healthy",
+"size": "(330, 292)",
+"ext": "png",
+"rauf_d": 12,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 194.png",
+"cls": "healthy",
+"size": "(202, 188)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 195.png",
+"cls": "healthy",
+"size": "(426, 418)",
+"ext": "png",
+"rauf_d": 10,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 196.png",
+"cls": "healthy",
+"size": "(338, 266)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0012.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 197.png",
+"cls": "healthy",
+"size": "(370, 362)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0071.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 198.png",
+"cls": "healthy",
+"size": "(310, 276)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0075.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 199.png",
+"cls": "healthy",
+"size": "(328, 296)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0043.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 2.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0139.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 20.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0140.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 200.png",
+"cls": "healthy",
+"size": "(368, 344)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0094.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 21.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0141.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 22.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0142.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 23.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0139.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 24.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0143.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 25.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0144.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 26.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0145.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 27.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0146.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 28.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0147.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 29.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0148.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 3.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0143.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 30.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0149.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 31.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 32.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0130.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 33.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0131.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 34.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 35.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0133.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 36.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0134.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 37.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0135.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 38.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0136.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 39.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0137.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 4.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0144.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 40.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0138.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 41.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0140.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 42.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0141.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 43.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0142.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 44.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0128.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 45.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0133.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 46.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 47.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0130.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 48.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0131.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 49.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 5.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0145.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 50.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0133.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 51.png",
+"cls": "healthy",
+"size": "(336, 274)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0085.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 52.png",
+"cls": "healthy",
+"size": "(318, 258)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 53.png",
+"cls": "healthy",
+"size": "(414, 354)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0060.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 54.png",
+"cls": "healthy",
+"size": "(404, 330)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0041.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 55.png",
+"cls": "healthy",
+"size": "(144, 176)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 56.png",
+"cls": "healthy",
+"size": "(174, 158)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0010.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 57.png",
+"cls": "healthy",
+"size": "(418, 348)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0060.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 58.png",
+"cls": "healthy",
+"size": "(384, 364)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0132.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 59.png",
+"cls": "healthy",
+"size": "(212, 226)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0064.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 6.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0146.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 60.png",
+"cls": "healthy",
+"size": "(260, 254)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0100.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 61.png",
+"cls": "healthy",
+"size": "(326, 304)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0070.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 62.png",
+"cls": "healthy",
+"size": "(498, 446)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0019.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 63.png",
+"cls": "healthy",
+"size": "(218, 210)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0035.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 64.png",
+"cls": "healthy",
+"size": "(218, 210)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 65.png",
+"cls": "healthy",
+"size": "(384, 322)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0107.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 66.png",
+"cls": "healthy",
+"size": "(296, 234)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0001.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 67.png",
+"cls": "healthy",
+"size": "(368, 344)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 68.png",
+"cls": "healthy",
+"size": "(352, 370)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0035.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 69.png",
+"cls": "healthy",
+"size": "(190, 178)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 7.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0147.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 70.png",
+"cls": "healthy",
+"size": "(264, 224)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 71.png",
+"cls": "healthy",
+"size": "(452, 398)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0027.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 72.png",
+"cls": "healthy",
+"size": "(406, 332)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0041.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 73.png",
+"cls": "healthy",
+"size": "(322, 294)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 74.png",
+"cls": "healthy",
+"size": "(342, 308)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0039.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 75.png",
+"cls": "healthy",
+"size": "(298, 298)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 76.png",
+"cls": "healthy",
+"size": "(334, 310)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0060.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 77.png",
+"cls": "healthy",
+"size": "(462, 374)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0065.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 78.png",
+"cls": "healthy",
+"size": "(378, 342)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 79.png",
+"cls": "healthy",
+"size": "(376, 336)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0031.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 8.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0148.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 80.png",
+"cls": "healthy",
+"size": "(196, 198)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 81.png",
+"cls": "healthy",
+"size": "(188, 202)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 82.png",
+"cls": "healthy",
+"size": "(384, 368)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0027.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 83.png",
+"cls": "healthy",
+"size": "(338, 266)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0106.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 84.png",
+"cls": "healthy",
+"size": "(370, 362)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0026.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 85.png",
+"cls": "healthy",
+"size": "(328, 296)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0039.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 86.png",
+"cls": "healthy",
+"size": "(304, 242)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0041.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 87.png",
+"cls": "healthy",
+"size": "(246, 222)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0027.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 88.png",
+"cls": "healthy",
+"size": "(342, 300)",
+"ext": "png",
+"rauf_d": 16,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0031.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 89.png",
+"cls": "healthy",
+"size": "(488, 370)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 9.jpg",
+"cls": "healthy",
+"size": "(256, 256)",
+"ext": "jpg",
+"rauf_d": 0,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0149.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 90.png",
+"cls": "healthy",
+"size": "(336, 274)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0039.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 91.png",
+"cls": "healthy",
+"size": "(334, 306)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 92.png",
+"cls": "healthy",
+"size": "(306, 288)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0058.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 93.png",
+"cls": "healthy",
+"size": "(404, 330)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0041.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 94.png",
+"cls": "healthy",
+"size": "(144, 176)",
+"ext": "png",
+"rauf_d": 20,
+"rauf_match": "data/rauf/fruit/black_spot/rauf_black_spot_0017.png",
+"rauf_cls": "black_spot"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 95.png",
+"cls": "healthy",
+"size": "(154, 140)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0040.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 96.png",
+"cls": "healthy",
+"size": "(290, 286)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 97.png",
+"cls": "healthy",
+"size": "(470, 444)",
+"ext": "png",
+"rauf_d": 18,
+"rauf_match": "data/rauf/fruit/healthy/rauf_healthy_0129.png",
+"rauf_cls": "healthy"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 98.png",
+"cls": "healthy",
+"size": "(212, 226)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/canker/rauf_canker_0085.png",
+"rauf_cls": "canker"
+},
+{
+"path": "data/doh/Orange Fruit Diseases/healthy/Healthy 99.png",
+"cls": "healthy",
+"size": "(210, 192)",
+"ext": "png",
+"rauf_d": 14,
+"rauf_match": "data/rauf/fruit/greening/rauf_greening_0097.png",
+"rauf_cls": "greening"
+}
+]

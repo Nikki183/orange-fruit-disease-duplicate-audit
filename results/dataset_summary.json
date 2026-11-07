@@ -1,0 +1,89 @@
+{
+ "n_files": 700,
+ "n_groups": 436,
+ "conflicting_groups": 1,
+ "files_in_conflicting": 10,
+ "rauf_derived": 378,
+ "files_per_class": {
+  "healthy": 200,
+  "black_spot": 180,
+  "scab": 120,
+  "canker": 100,
+  "greening": 100
+ },
+ "groups_per_class": {
+  "black_spot": 104,
+  "canker": 78,
+  "greening": 79,
+  "healthy": 166,
+  "scab": 10
+ },
+ "hash_groups_4class": 426,
+ "embedding_merged_pairs": 397,
+ "after_n": 578,
+ "after_groups": 345,
+ "after_files_per_class": {
+  "healthy": 200,
+  "black_spot": 180,
+  "canker": 100,
+  "greening": 98
+ },
+ "after_groups_per_class": {
+  "black_spot": 45,
+  "canker": 78,
+  "greening": 66,
+  "healthy": 156
+ },
+ "group_size": {
+  "count": 345.0,
+  "mean": 1.6753623188405797,
+  "std": 3.3798481886361658,
+  "min": 1.0,
+  "25%": 1.0,
+  "50%": 1.0,
+  "75%": 2.0,
+  "max": 62.0
+ },
+ "leak": {
+  "random_s0": [
+   116,
+   58
+  ],
+  "random_s1": [
+   116,
+   55
+  ],
+  "random_s2": [
+   116,
+   55
+  ],
+  "random_s3": [
+   116,
+   61
+  ],
+  "random_s4": [
+   116,
+   55
+  ],
+  "group_f0": [
+   104,
+   0
+  ],
+  "group_f1": [
+   105,
+   0
+  ],
+  "group_f2": [
+   168,
+   0
+  ],
+  "group_f3": [
+   94,
+   0
+  ],
+  "group_f4": [
+   107,
+   0
+  ]
+ }
+}

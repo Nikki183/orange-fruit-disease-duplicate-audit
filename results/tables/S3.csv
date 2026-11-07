@@ -1,0 +1,5 @@
+Model,Unmasked (%),Centre only (%),Outer ring only (%),Majority rate (%),p (ring vs majority)
+YOLOv8n-cls,84.8 ± 4.4,81.7 ± 3.5,64.4 ± 9.3,41.5,0.0214
+YOLO11n-cls,84.4 ± 3.4,78.4 ± 6.1,66.9 ± 4.2,41.5,0.0029
+YOLOv8s-cls,85.2 ± 5.9,82.8 ± 4.7,72.0 ± 4.6,41.5,0.0019
+YOLO11s-cls,83.0 ± 3.5,74.3 ± 10.8,78.7 ± 4.8,41.5,0.0003

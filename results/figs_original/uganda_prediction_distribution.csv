@@ -1,0 +1,9 @@
+model,true,black_spot,canker,greening,healthy
+yolo11n-cls,canker,0.593,0.067,0.27,0.071
+yolo11n-cls,healthy,0.213,0.078,0.56,0.149
+yolo11s-cls,canker,0.541,0.064,0.355,0.04
+yolo11s-cls,healthy,0.177,0.062,0.647,0.114
+yolov8n-cls,canker,0.623,0.052,0.243,0.082
+yolov8n-cls,healthy,0.242,0.022,0.587,0.149
+yolov8s-cls,canker,0.599,0.039,0.324,0.039
+yolov8s-cls,healthy,0.186,0.025,0.688,0.101

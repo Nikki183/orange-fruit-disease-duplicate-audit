@@ -1,0 +1,27 @@
+{
+ "hashgroup_f0": {
+  "n_test": 117,
+  "exact_copy_in_train": 0,
+  "embedding_near_duplicate_in_train": 22
+ },
+ "hashgroup_f1": {
+  "n_test": 122,
+  "exact_copy_in_train": 0,
+  "embedding_near_duplicate_in_train": 19
+ },
+ "hashgroup_f2": {
+  "n_test": 111,
+  "exact_copy_in_train": 0,
+  "embedding_near_duplicate_in_train": 16
+ },
+ "hashgroup_f3": {
+  "n_test": 116,
+  "exact_copy_in_train": 0,
+  "embedding_near_duplicate_in_train": 21
+ },
+ "hashgroup_f4": {
+  "n_test": 112,
+  "exact_copy_in_train": 0,
+  "embedding_near_duplicate_in_train": 21
+ }
+}

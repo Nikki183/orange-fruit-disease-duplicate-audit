@@ -1,0 +1,3 @@
+Model,Random image-level macro-F1 (%),Hash-only group macro-F1 (%),Hash + embedding group macro-F1 (%),Δ hash-only − full (pp),p (Welch),Test images with a near-duplicate in training (per fold),"Accuracy, near-duplicate in training (%)","Accuracy, no near-duplicate (%)",p (paired)
+YOLOv8n-cls,96.8 ± 1.6,86.0 ± 2.1,82.5 ± 4.1,3.4,0.146,17–24,100.0 ± 0.0,83.3 ± 2.1,0.000
+YOLO11n-cls,96.5 ± 2.3,86.1 ± 2.0,81.3 ± 4.4,4.8,0.071,17–24,100.0 ± 0.0,83.4 ± 2.7,0.000

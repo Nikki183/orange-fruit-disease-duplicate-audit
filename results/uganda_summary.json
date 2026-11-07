@@ -1,0 +1,21 @@
+{
+ "files_per_folder": {
+  "Citrus_Canker": 3000,
+  "Healthy": 3000
+ },
+ "sampled": {
+  "canker": 300,
+  "healthy": 300
+ },
+ "screening": {
+  "canker_dup_within_uganda": 1,
+  "healthy_dup_within_uganda": 4,
+  "healthy_overlap_public": 1
+ },
+ "n_per_class_target": 300,
+ "embedding_dropped": 16,
+ "final": {
+  "canker": 296,
+  "healthy": 288
+ }
+}
